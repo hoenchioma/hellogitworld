@@ -1,3 +1,4 @@
 /usr/lib/jvm/java-8-openjdk-amd64/jre
 /home/raheeb
 /home/raheeb/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-12-oracle/bin:/usr/lib/jvm/java-12-oracle/db/bin:/home/raheeb/Genymotion:/usr/lib/jvm/java-8-openjdk-amd64/jre/bin
+goodbye cruel world
